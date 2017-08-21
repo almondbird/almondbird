@@ -1,0 +1,9 @@
+{
+  "appName": "Google",
+  "websiteURL": "https://www.google.com",
+  "appId": "com.test.google",
+  "versionName": "2.5.6",
+  "versionCode": "123",
+  "splashColor": "#ccdd22",
+  "deeplinkScheme": "ggl"
+}

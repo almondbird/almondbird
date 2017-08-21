@@ -1,0 +1,10 @@
+Output/
+*.DS_Store
+
+Android/*.iml
+Android/.gradle
+Android/local.properties
+Andoird/idea/
+Android/build
+Android/captures
+Android/externalNativeBuild

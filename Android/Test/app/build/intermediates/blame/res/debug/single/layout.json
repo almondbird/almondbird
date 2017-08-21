@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_search_view.xml"
+    }
+]

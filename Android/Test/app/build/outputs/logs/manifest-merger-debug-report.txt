@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:11:5-26:19
+MERGED from [com.android.support:appcompat-v7:21.0.0] /Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.0] /Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:15:9-35
+	android:allowBackup
+		ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:16:9-40
+activity#csds.sds.test.MainActivity
+ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:configChanges
+		ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:19:13-59
+	android:theme
+		ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:20:13-69
+	android:name
+		ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:18:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:21.0.0] /Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.0] /Users/tonyhaddad/Documents/Mutable/Android/Test/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		INJECTED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tonyhaddad/Documents/Mutable/Android/Test/app/src/main/AndroidManifest.xml
