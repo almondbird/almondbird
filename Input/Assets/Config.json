@@ -1,9 +1,9 @@
 {
-  "appName": "My Little Game",
+  "appName": "Flippy Bird",
   "websiteURL": "https://almondbird.com/demos/flappy.test.html",
-  "appId": "com.test.mygame",
+  "appId": "com.mygame.flippy",
   "versionName": "1.0.0",
   "versionCode": "100",
   "splashColor": "#71c5cf",
-  "deeplinkScheme": "mygame"
+  "deeplinkScheme": "flippy"
 }
