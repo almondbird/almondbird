@@ -85,7 +85,7 @@ lines = IO.readlines('Output/iOS/SmartWebView/SmartWebView.xcodeproj/project.pbx
   if line.include? 'PRODUCT_BUNDLE_IDENTIFIER'
     "PRODUCT_BUNDLE_IDENTIFIER = #{app_id};"
   elsif line.include? 'PRODUCT_NAME'
-    'PRODUCT_NAME = "#{app_name}";'
+    "PRODUCT_NAME = \"#{app_name}\";"
   else
     line
   end
