@@ -10,6 +10,16 @@
 #import "AssetsURLProtocol.h"
 #import "ConfigManager.h"
 
+void dispatch_main_sync_safe(DISPATCH_NOESCAPE dispatch_block_t block) {
+    if ([NSThread isMainThread]) {
+        block();
+    } else {
+        dispatch_sync(dispatch_get_main_queue(), ^{
+            block();
+        });
+    }
+}
+
 @implementation AssetsURLProtocol
 
 + (BOOL)canInitWithRequest:(NSURLRequest *)request {
@@ -24,7 +34,9 @@
     NSLog(@"START LOADING %@", self.request);
 
     if ([self.class shouldOpenRequestInBrowser:self.request]) {
-        [[UIApplication sharedApplication] openURL:self.request.URL];
+        dispatch_async(dispatch_get_main_queue(), ^{
+            [[UIApplication sharedApplication] openURL:self.request.URL];
+        });
     } else {
         NSString *assetPath = [self.class localWebsiteAssetPathForRequest:self.request];
         NSData *data = [NSData dataWithContentsOfFile:assetPath];
@@ -43,7 +55,14 @@
 }
 
 + (BOOL)shouldOpenRequestInBrowser:(NSURLRequest *)request {
-    return [request.URL.query containsString:@"almondbirdpopup=true"] && [[UIApplication sharedApplication] canOpenURL:request.URL];
+    if ([request.URL.query containsString:@"almondbirdpopup=true"]) {
+        __block BOOL appCanOpenURL;
+        dispatch_main_sync_safe(^{
+            appCanOpenURL = [[UIApplication sharedApplication] canOpenURL:request.URL];
+        });
+        return appCanOpenURL;
+    }
+    return NO;
 }
 
 + (BOOL)canLoadLocalAssetForRequest:(NSURLRequest *)request {
