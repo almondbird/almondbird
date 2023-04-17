@@ -2,3 +2,4 @@
 # Add CI badge and update CONTRIBUTING.md
 # Implement improved async queue handling
 # Refactor core parser logic
+# Improve error handling for I/O edge cases
