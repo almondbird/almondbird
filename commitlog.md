@@ -3,3 +3,4 @@
 # Implement improved async queue handling
 # Refactor core parser logic
 # Improve error handling for I/O edge cases
+# Update README with extended usage examples
