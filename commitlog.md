@@ -4,3 +4,4 @@
 # Refactor core parser logic
 # Improve error handling for I/O edge cases
 # Update README with extended usage examples
+# Bump minimum Python version to 3.10
