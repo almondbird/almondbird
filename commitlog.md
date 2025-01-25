@@ -6,3 +6,4 @@
 # Update README with extended usage examples
 # Bump minimum Python version to 3.10
 # Fix memory leak in initialisation routine
+# Add support for JSON-based configuration files
