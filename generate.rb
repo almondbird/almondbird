@@ -123,4 +123,4 @@ File.open('Output/iOS/SmartWebView/SmartWebView/Info.plist', 'w') do |file|
 end
 
 puts 'DONE'
-puts 'Thank you'
+puts 'THANK YOU'
