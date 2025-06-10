@@ -7,3 +7,4 @@
 # Bump minimum Python version to 3.10
 # Fix memory leak in initialisation routine
 # Add support for JSON-based configuration files
+# Integrate basic WebSocket support and tests
