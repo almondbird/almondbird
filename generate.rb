@@ -4,7 +4,7 @@ require 'json'
 puts 'Cleaning up old outputs...'
 
 # Clean up
-FileUtils.remove_dir('Output', true)
+FileUtils.remove_dir('Output', true) #removes output if exists previously
 FileUtils.mkdir('Output')
 FileUtils.copy_entry('Android', 'Output/Android', false, false, false)
 FileUtils.copy_entry('iOS', 'Output/iOS', false, false, false)
@@ -123,4 +123,3 @@ File.open('Output/iOS/SmartWebView/SmartWebView/Info.plist', 'w') do |file|
 end
 
 puts 'DONE'
-puts 'THANK YOU'
