@@ -1,5 +1,7 @@
 Output/
 *.DS_Store
+*.mp2
+*.bmp
 
 Android/*.iml
 Android/.gradle
